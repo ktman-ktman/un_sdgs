@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring",
+        "mechatroner.rainbow-csv",
+        "grapecity.gc-excelviewer",
+        "visualstudioexptteam.vscodeintellicode",
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter-renderers",
+    ]
+}
