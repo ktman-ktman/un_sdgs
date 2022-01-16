@@ -8,6 +8,7 @@ RUN apt-get update \
     fish \
     git \
     htop \
+    less \
     neovim \
     python3-dev \
     tmux \
