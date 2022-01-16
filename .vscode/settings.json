@@ -1,8 +1,4 @@
 {
-    // dotfiles
-    "dotfiles.repository": "https://github.com/ktman-ktman/dotfiles.git",
-    "dotfiles.targetPath": "~/dotfiles",
-    "dotfiles.installCommand": "~/dotfiles/install.sh",
     // Editor
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
